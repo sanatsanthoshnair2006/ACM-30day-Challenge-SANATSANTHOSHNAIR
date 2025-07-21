@@ -1,5 +1,4 @@
-# ACM-30day-Challenge-SANATSANTHOSHNAIR
-## cycle1
+# cycle1
 
 ---
 
@@ -32,5 +31,5 @@
 - Scikit-learn
 - Matplotlib / Seaborn (for visualization, where applicable)
 - Warnings 
-
+- Seaborn
 
