@@ -10,6 +10,7 @@
 | **Phase 2** | Trained SVM models with Linear, RBF, and Polynomial kernels and visualized their decision boundaries using 2D PCA. |
 | **Phase 3** | Trained PCA/t-SNE for dimensionality reduction, followed by k-Means clustering (elbow method) and hierarchical clustering using SciPy dendrogram. |
 | **Phase 4** | Trained a pipeline using TF-IDF vectorization followed by SVD for dimensionality reduction, then visualizeed the top 2 components and optionally train a clustering model (k=20) to assess group structure via silhouette score and cluster comparison.|
+| **MainChallenge** | Prepared tweet sentiment analysis by cleaning text, mapping labels, extracting TF-IDF features, training a classifier, and evaluating model performance with confusion matrix and classification metrics. |
 
 
 ---
@@ -20,6 +21,7 @@
 - `Phase2SupportVectorMachines.ipynb`               - Linear kernel,RBF kernel,Polynomial kernel, Visualize (just a 2D PCA plot to keep it minimal)
 - `Phase3_Unsupervised _Learning.ipynb`             - k-Means (elbow method), Hierarchical Clustering (dendrogram using scipy), PCA and t-SNE
 - `Phase 4:_SVD+ PCA.ipynb`                         - SVD + PCA
+- `Main Challenge_Tweet _Sentiment _Analysis`       - Data Cleaning,  Label Mapping, Feature Extraction,  Model Building and Model Evaluation
 ---
 
 ## Tools & Libraries Used
